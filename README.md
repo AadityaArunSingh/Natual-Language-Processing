@@ -68,19 +68,9 @@ Each script generates:
 | F1 Score    | ~0.88–0.89          | ~0.90+               |
 | Accuracy    | ~0.89               | ~0.90                |
 
-*(Note: Replace these with actual values from your output for a final report.)*
 
 ---
 
-## 🧪 Reproducibility
-
-Random seeds (`SEED = 42`) are set for:
-- NumPy
-- `random`
-- PyTorch (CPU & GPU)
-- Transformers
-
----
 
 ## 🛠️ Installation
 
@@ -115,8 +105,7 @@ pip install datasets transformers huggingface_hub evaluate seqeval nbconvert
 
 ## ✍️ Author
 
-Aaditya Singh – MSc Business Analytics  
-Contributions: Data Augmentation, Model Training, Evaluation, Reporting  
+Aaditya Singh – MSc Data Science  
 For academic use and performance benchmarking of NLP models in the legal domain.
 
 ---
